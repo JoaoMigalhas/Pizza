@@ -1,11 +1,4 @@
 ﻿# PIZZARIA - 
-# Grupo:
-# João Miguel - 2511914 - ja1miguelsantus@gmail.com
-# Henrique Cordeiro - 2507350 - henriquecordeiro395@outlook.com
-# Pedro Pereira - 2505860 - pedropereiraoliveira2019@gmail.com
-# Maria Eduarda - 2508726 - moraisduda1615@gmail.com
-# Marcos Vinicius - 2506560 - marcosvinicius34522@gmail.com
-# Geovanna Cristina - 2504583 - geovanna.cristina2014@gmail.com
 
 # Lista de Pizzas e Preços
 $Pizza = @("Calabresa", "Pepperoni", "Frango com catupiry", "Portuguesa", "Muçarela", "Brócolis", "4 Queijos", "Moda da Casa", "Brigadeiro", "Doce de leite")
